@@ -1,5 +1,5 @@
 Laravel Project Setup process 
-//////////////////
+//////////////////</br>
 Run#1 git clone RepositoryURL
 
 example.env copy and paste.
